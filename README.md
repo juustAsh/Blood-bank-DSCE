@@ -1,1 +1,1 @@
-# DSCE
+# Blood Bank Management System
